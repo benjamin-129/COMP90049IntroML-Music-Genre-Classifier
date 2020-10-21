@@ -1,7 +1,3 @@
-# COMP90049IntroML-Music-Genre-Classifier
-
-================================================================================
-Name: Benjamin Tam
 ================================================================================
 This file describes the classifier implementations used in
 COMP90049: Introduction to Machine Learning Project 2: 
